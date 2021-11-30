@@ -19,4 +19,4 @@
 ### 🧑‍💻Tech Blog
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-brightgreen?style=flat-square&logo=velog&link=https://velog.io/@joonhan)](https://velog.io/@joonhan)
 
-[![Joonhan's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/joonhankim/github-readme-stats)
+[![Joonhan's github stats](https://github-readme-stats.vercel.app/api?username=joonhankim)](https://github.com/joonhankim/github-readme-stats)

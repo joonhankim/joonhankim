@@ -13,5 +13,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/%EC%A4%80%ED%95%9C-%EA%B9%80-3327881a4/)](https://www.linkedin.com/in/%EC%A4%80%ED%95%9C-%EA%B9%80-3327881a4/)
 	
-### Tech Blog
+### 🧑‍💻Tech Blog
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-brightgreen?style=flat-square&logo=velog&link=https://velog.io/@joonhan)](https://velog.io/@joonhan)

@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?color=random)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Stay%20Cool&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100&descAlignY=51&descAlign=62)
+
+
+</p>
 
 
 <div align=right>

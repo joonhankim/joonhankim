@@ -7,3 +7,6 @@
   </div>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickim4525@gmail.com)](mailto:erickim4525@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/%EC%A4%80%ED%95%9C-%EA%B9%80-3327881a4/)](https://www.linkedin.com/in/%EC%A4%80%ED%95%9C-%EA%B9%80-3327881a4/)
+	
